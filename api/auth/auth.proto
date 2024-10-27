@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package auth;
+
+service AuthService {
+
+}
+
+message RegisterRequest {
+
+}
+
+message RegisterResponse {
+
+}
+message LoginRequest {
+
+}
+
+message LoginResponse {
+
+}
+
+message ValidateTokenRequest {
+
+}
+
+message ValidateTokenResponse {
+
+}
